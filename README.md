@@ -48,7 +48,7 @@ Derived from our research paper:
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/<your-username>/heart-failure-ml.git
+   git clone https://github.com/Darshan-Ramachandra/Heart-Failure-Prediction.git
    ```
 2. **Navigate to the project directory**  
    ```bash
@@ -88,7 +88,7 @@ Derived from our research paper:
 1. **Fork** the repository.  
 2. **Clone** your fork:  
    ```bash
-   git clone https://github.com/<your-username>/heart-failure-ml.git
+   git clone https://github.com/Darshan-Ramachandra/Heart-Failure-Prediction.git
    ```
 3. **Create** a feature branch:  
    ```bash
